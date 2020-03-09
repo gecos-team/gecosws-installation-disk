@@ -7,6 +7,6 @@ GECOS v4
 * [MD5SUM](http://v4.gecos.guadalinex.org/disks/MD5SUM)
 
 GECOS v3 
-* [standard 64 bits](http://v3.gecos.guadalinex.org/disks/GECOS-v3.1-64B.iso) 
-* [lite 32 bits](http://v3.gecos.guadalinex.org/disks/GECOS-v3.1-32B.iso) 
+* [standard 64 bits](http://v3.gecos.guadalinex.org/disks/GECOS-v3.1-64B-RC8-20180206.iso) 
+* [lite 32 bits](http://v3.gecos.guadalinex.org/disks/GECOS-v3.1-64B-RC8-20180206.iso) 
 * [MD5SUM](http://v4.gecos.guadalinex.org/disks/MD5SUM)
