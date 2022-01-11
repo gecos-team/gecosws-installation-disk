@@ -3,7 +3,7 @@
 Installable disc images of GECOS Workstation 
 
 GECOS v5:
-* [Standard (64 bits)](http://v5.gecos.guadalinex.org/discs/GECOS-v5.0-64B.iso) 
+* [Standard (64 bits)](http://v5.gecos.guadalinex.org/discs/GECOS-v5.1-64B.iso) 
 * [MD5SUM](http://v5.gecos.guadalinex.org/discs/MD5SUM)
 
 GECOS v4:
